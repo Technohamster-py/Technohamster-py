@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Technohamster-py
-- 👀 I’m interested in films, books, learning
-- 🌱 I’m currently learning Django, Java
+- 👀 I’m interested in AI, Web
+- 🌱 I’m currently learning Django, JS, PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arseniy.khomchenko@gmail.com, https://t.me/arseniykhomchenko
 <!---
