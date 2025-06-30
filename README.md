@@ -3,7 +3,7 @@
 # Main Areas:
 - Desktop development (C++/Qt5, Qt6)
 - Web development (Python/Django, HTML/CSS with Bootstrap)
-- Data processing/scientific computing (NumPy)
+- Data processing/scientific computing (NumPy, MATLAB)
 - Database work (SQL)
 
 # Primary Project:
